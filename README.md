@@ -1,5 +1,4 @@
-# Pipeline-de-ETL-com-Python
-Pipeline de ETL com Python 
-Este é o desafio de python do bootcamp santander.
-Fiz um arquivo marketing.csv com frases.
-O programa seleciona esss frases de forma aleatória e envia para o cliente.
+<h2> Pipeline-de-ETL-com-Python</h2>
+<p>Este é um dos desafio de python do Bootcamp Santander 2023.</p>
+<p>Fiz um arquivo marketing.csv com frases de marketing bancário.</p>
+<p>O programa seleciona esss frases de forma aleatoria e envia para o cliente.</p>
